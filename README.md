@@ -17,4 +17,4 @@ Just graduated as a UX/UI Designer on Digital House and im currently learning Py
 - 🕊️ @A_burcet
 
 I invite you to take a look at my portfolio!:
-- 📘 behance.net/alanburcet
+- 📘 www.behance.net/alanburcet
