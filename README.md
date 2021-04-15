@@ -13,8 +13,8 @@ Just graduated as a UX/UI Designer on Digital House and im currently learning Py
 
 💬 Ask me about anything.. you can always talk to me on my instagram or twitter:
 
-📷 @alanburcet
-🕊️ @A_burcet
+- 📷 @alanburcet
+- 🕊️ @A_burcet
 
 I invite you to take a look at my portfolio!:
-📘 behance.net/alanburcet
+- 📘 behance.net/alanburcet
