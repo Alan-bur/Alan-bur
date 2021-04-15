@@ -11,10 +11,11 @@ Just graduated as a UX/UI Designer on Digital House and im currently learning Py
 - 📐 Pixel-Perfect
 
 
-💬 Ask me about anything.. you can always talk to me on my instagram or twitter:
+💬 Ask me about anything.. you can always connect with me on my Social Networks:
 
-- 📷 @alanburcet
-- 🕊️ @A_burcet
+- Linkedin: alanburcet
+- Instagram: @alanburcet
+- Twitter: @A_burcet
 
 I invite you to take a look at my portfolio!:
 - 📘 www.behance.net/alanburcet
