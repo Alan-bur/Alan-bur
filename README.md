@@ -7,8 +7,6 @@ Just graduated as a UX/UI Designer on Digital House and im currently learning Py
 
 - 🎓 Student
 - 🌐 Español,English,中文 (Mandarin Chinese)
-- 🎮 Game Modder
-- 📐 Pixel Perfect
 
 
 💬 Ask me about anything.. you can always connect with me on my Social Networks:
