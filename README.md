@@ -1,8 +1,8 @@
-## 📎 I'm Alan!
+<h1>📎I'm Alan</h1>
 
-### UI/UX Designer 🖌.
+<h3> UI/UX Designer 🖌 and Game Modder 🕹️.</h3>
 
-Do you like games like me? Consider following me. On this place i upload mods and even projects that will make your experience easier.
+<p>Do you like games like me? Join me!. This is the place where i make mods and even projects that will make your experience easier.</p>
 
-💬 https://beacons.ai/alanbur
-🌐 https://alanburcet.framer.website/
+💬 https://beacons.ai/alanbur <br>
+🌐 https://alanburcet.framer.website/ <br>
