@@ -1,19 +1,8 @@
 ## Hello World!👋, It´s Alan.
 
-### Junior UI Designer 🖌.
+### UI/UX Designer 🖌.
 
-19 years old student with a passion for technology, design and languages. 
-Just graduated as a UX/UI Designer on Digital House and im currently learning Python Language and Mandarin Chinese on my free time.
+Do you like games like me? Consider following me. On this place i upload mods and even projects that will make your experience easier.
 
-- 🎓 Student
-- 🌐 Español,English,中文 (Mandarin Chinese)
-
-
-💬 Ask me about anything.. you can always connect with me on my Social Networks:
-
-- Linkedin: alanburcet
-- Instagram: @alanburcet
-- Twitter: @A_burcet
-
-I invite you to take a look at my portfolio!:
-- 📘 www.behance.net/alanburcet
+💬 https://beacons.ai/alanbur
+🌐 https://alanburcet.framer.website/
