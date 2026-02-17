@@ -10,7 +10,10 @@ Since I was a teenager, interfaces is what caught my attention. I found a way to
 Don't forget to follow me on Github and give a 🌟 to your favorite project! That helps a lot and I recommend checking the Youtube channel as I upload texture pack showcases, game mods and useful tutorials you might find interesting. 
 
 
-[<img width="63" height="63" alt="Linkedin alt" src="https://github.com/user-attachments/assets/72c99f32-38ec-4aae-a307-d95cabcdffbd" />](https://www.linkedin.com/in/alanburcet/)
+
+
+
+[<img width="63" height="63" alt="Group 1770" src="https://github.com/user-attachments/assets/2dccc658-d991-48b6-a03c-0c204efb993e" />](https://www.linkedin.com/in/alanburcet/)
 [<img width="63" height="63" alt="Group 1759" src="https://github.com/user-attachments/assets/e2a2b59a-58fc-4824-843e-33cf66c9269b" />](https://www.youtube.com/@AlanBur_)
 [<img width="63" height="63" alt="discord" src="https://github.com/user-attachments/assets/3621f33a-fa1d-4ef9-8e98-928701a55d7e" />](https://discord.gg/QHZPfdB5XV)
 [<img width="63" height="63" alt="patreon" src="https://github.com/user-attachments/assets/2d4433d9-edbe-4c89-9aef-b1f8347275d7" />](www.patreon.com/abur)
